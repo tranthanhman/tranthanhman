@@ -1,4 +1,4 @@
-### Hey there, I'm Huy
+### Hey there, I'm Man
 
 I am a freelance frontend developer.
 
